@@ -2,7 +2,7 @@
 
 In this project you will create a webpage to reflect a restaurant menu. This should not be an exact copy of an actual restaurant menu, but an original design for an imaginary restaurant. This project will encompass what we've gone over throughout our course and give you a chance to showcase the HTML and CSS you've learned. The goal is to create something for your portfolio - make something you can speak to and put time into how it looks. **Adding this change here**
 
-### Due: Wednesday, February 28th at 11:59pm
+### Due: 
 
 ## What You Will Submit:
 - Code that has at least one webpage (HTML file), at least one CSS file, and a folder for your images
